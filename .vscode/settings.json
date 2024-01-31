@@ -1,0 +1,9 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "ModuleDictionry"
+    ],
+    "robloxLsp.diagnostics.disable": [
+        "deprecated",
+        "deprecated"
+    ]
+}
